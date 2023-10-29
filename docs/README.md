@@ -1,15 +1,5 @@
-# Media Player Classic - Black Edition (MPC-BE)
+# Media Player Classic - Experimental Edition (MPC-EE)
 ---
-
-MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
-Этот проект имеет свою независимую разработку на базе оригинального кода «Media Player Classic» (Gabest) и «Media Player Classic - Home Cinema» (Casimir666).
-
-## Системные требования:
-* Процессор с поддержкой SSE2
-* Windows 7, 8, 8.1, 10, 11 32-bit/64-bit
-
----
-
 MPC-BE is a free and open source audio and video player for Windows.
 MPC-BE is based on the original Guliverkli project and "Media Player Classic Home Cinema" project, contains additional features and bug fixes.
 
@@ -17,15 +7,6 @@ MPC-BE is based on the original Guliverkli project and "Media Player Classic Hom
 * An SSE2 capable CPU
 * Windows 7, 8, 8.1, 10, 11 32-bit/64-bit
 
----
-
-## Links
-- [Project Page  ](https://sourceforge.net/projects/mpcbe/)
-- [Get code      ](https://github.com/Aleksoid1978/MPC-BE.git)
-- [Nightly Builds](https://github.com/Aleksoid1978/MPC-BE/wiki/Nightly-builds)
-
----
- 
 For the people involved in the development, see Authors.txt.
 MPC-BE's code is licensed under GPL v3 (see LICENSE).
 
